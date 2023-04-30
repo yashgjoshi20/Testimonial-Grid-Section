@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  [Solution  URL] (https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: [GitHub Pages Live URL] (https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Testimonial-Grid-Section.git)
+- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Testimonial-Grid-Section/)
 
 ## My process
 
